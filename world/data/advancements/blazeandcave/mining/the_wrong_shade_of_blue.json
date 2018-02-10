@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dye",
+			"data": 4
+        },
+        "title": {"translate":"DIAM- oh, wait, no."},
+        "description": {"translate":"It's still useful for enchanting"}
+    },
+    "parent": "blazeandcave:mining/isnt_it_iron_pick",
+    "rewards": {
+		"function": "bc_rewards:mining/the_wrong_shade_of_blue"
+    },		
+    "criteria": {
+        "coal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dye",
+						"data": 4
+                    }
+                ]
+            }
+        }
+    }
+}
