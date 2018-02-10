@@ -1,4 +1,4 @@
-## Server Modifications
+### Server Modifications
 #### /world
 
 By Default Advancement rewards will be included within the pack, to exclude these do not include the folder listed below.
@@ -12,7 +12,7 @@ To Start the additions use the command below, this will install the 'addons' and
 _This pack includes BlazeAndCave's Advancements_
 
 
-## Overviewer
+### Overviewer
 #### overviewer.cfg and /overviewer-web-assets
 
 The overviewer assests are purely for anyone using an overviewer to render maps on a regular basis, these changes include a full render of each dimention in 4 directions including two overlays to add signed marked with 'LM:' and 'Image:' on the first line followed by a marker name or imgur sub link included.
