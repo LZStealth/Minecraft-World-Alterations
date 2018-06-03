@@ -1,0 +1,47 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:obsidian"
+        },
+        "title": {"translate":"Void Walker"},
+        "description": {"translate":"Explore every end biome"},
+        "frame": "goal"
+    },
+    "parent": "minecraft:end/enter_end_gateway",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:end/void_walker"
+    },	
+    "criteria": {
+        "sky": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky"
+            }
+        },
+        "sky_island_low": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky_island_low"
+            }
+        },
+        "sky_island_high": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky_island_high"
+            }
+        },
+        "sky_island_medium": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky_island_medium"
+            }
+        },
+        "sky_island_barren": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky_island_barren"
+            }
+        }
+    }
+}
