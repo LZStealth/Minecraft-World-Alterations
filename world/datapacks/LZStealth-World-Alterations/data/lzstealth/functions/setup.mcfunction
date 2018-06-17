@@ -12,3 +12,7 @@ tellraw @a [" - ",{"text":"One Player Sleeping"}]
 #### Mod Head Drops ####
 scoreboard objectives add MobHeadDrops dummy
 tellraw @a [" - ",{"text":"Custom Mod Head Drops "}]
+
+
+### Enable BlazeAndCaves Achievements ###
+scoreboard players set Reward Reward 1
