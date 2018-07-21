@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Nether"},
         "description": {"translate":"Bring summer clothes"},
-		"background": "minecraft:textures/blocks/netherrack.png",
+		"background": "minecraft:textures/block/netherrack.png",
         "show_toast": false,
         "announce_to_chat": false
     },

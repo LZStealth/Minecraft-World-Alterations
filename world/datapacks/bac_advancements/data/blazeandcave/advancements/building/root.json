@@ -5,12 +5,12 @@
         },
         "title": {"translate":"Building"},
         "description": {"translate":"Your only limit is your imagination... and resources"},
-        "background": "minecraft:textures/blocks/oak_planks.png",
+        "background": "minecraft:textures/block/oak_planks.png",
         "show_toast": false,
         "announce_to_chat": false
     },
 	"rewards": {
-		"function": "bc_rewards:building/benchmarking"
+		"function": "bc_rewards:building/root"
     },		
     "criteria": {
         "crafting_table": {

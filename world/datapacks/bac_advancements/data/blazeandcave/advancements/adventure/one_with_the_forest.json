@@ -22,7 +22,7 @@
         "forest_hills": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:forest_hills"
+                "biome": "minecraft:wooded_hills"
             }
         },
         "forest": {
@@ -40,7 +40,7 @@
         "roofed_forest": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:roofed_forest"
+                "biome": "minecraft:dark_forest"
             }
         },
         "birch_forest": {

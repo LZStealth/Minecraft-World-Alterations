@@ -11,16 +11,6 @@
 		"function": "bc_rewards:building/change_of_sheets"
     },		
     "criteria": {
-        "white_bed": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:white_bed"
-                    }
-                ]
-            }
-        },
         "orange_bed": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -174,7 +164,6 @@
     },
     "requirements": [
 		[
-        "white_bed",
         "orange_bed",
         "magenta_bed",
         "light_blue_bed",

@@ -85,11 +85,11 @@
                 }
             }
         },
-        "clownfish": {
+        "tropical_fish": {
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:clownfish"
+                    "item": "minecraft:tropical_fish"
                 }
             }
         },

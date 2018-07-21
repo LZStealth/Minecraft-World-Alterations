@@ -11,7 +11,7 @@
 		"function": "bc_rewards:animal/when_pigs_used_to_fly"
     },		
     "criteria": {
-        "clownfish": {
+        "tropical_fish": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [

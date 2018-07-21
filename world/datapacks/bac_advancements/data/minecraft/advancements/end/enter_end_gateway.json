@@ -14,7 +14,7 @@
         "outer_pos_x": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky",
+                "biome": "minecraft:the_end",
 				"position": {
 					"x": {
 						"min": 750.0
@@ -25,7 +25,7 @@
         "outer_pos_z": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky",
+                "biome": "minecraft:the_end",
 				"position": {
 					"z": {
 						"min": 750.0
@@ -36,7 +36,7 @@
         "outer_neg_x": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky",
+                "biome": "minecraft:the_end",
 				"position": {
 					"x": {
 						"max": -750.0
@@ -47,7 +47,7 @@
         "outer_neg_z": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky",
+                "biome": "minecraft:the_end",
 				"position": {
 					"z": {
 						"max": -750.0

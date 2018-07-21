@@ -6,7 +6,7 @@
         "title": {"translate":"Clay-Dough!"},
         "description": {"translate":"Dig up some clay from a lake"}
     },
-    "parent": "blazeandcave:building/benchmarking",
+    "parent": "blazeandcave:building/root",
 	"rewards": {
 		"function": "bc_rewards:building/play_dough"
     },		

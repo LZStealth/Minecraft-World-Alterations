@@ -16,31 +16,31 @@
         "sky": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky"
+                "biome": "minecraft:the_end"
             }
         },
         "sky_island_low": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky_island_low"
+                "biome": "minecraft:small_end_islands"
             }
         },
         "sky_island_high": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky_island_high"
+                "biome": "minecraft:end_highlands"
             }
         },
         "sky_island_medium": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky_island_medium"
+                "biome": "minecraft:end_midlands"
             }
         },
         "sky_island_barren": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:sky_island_barren"
+                "biome": "minecraft:end_barrens"
             }
         }
     }

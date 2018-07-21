@@ -16,19 +16,19 @@
         "swampland": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:swampland"
+                "biome": "minecraft:swamp"
             }
         },
         "mushroom_island": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:mushroom_island"
+                "biome": "minecraft:mushroom_fields"
             }
         },
         "mushroom_island_shore": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:mushroom_island_shore"
+                "biome": "minecraft:mushroom_field_shore"
             }
         },
         "jungle_hills": {

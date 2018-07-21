@@ -14,7 +14,7 @@
         "sunflower_plains": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:mutated_plains"
+                "biome": "minecraft:sunflower_plains"
             }
         }
     }

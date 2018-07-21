@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Enchanting"},
         "description": {"translate":"Enchant items to give them magical abilities"},
-		"background": "minecraft:textures/blocks/obsidian.png",
+		"background": "minecraft:textures/block/obsidian.png",
         "show_toast": false,
         "announce_to_chat": false
     },

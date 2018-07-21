@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Combat"},
         "description": {"translate":"Battle against the monsters of this world"},
-        "background": "minecraft:textures/blocks/mossy_cobblestone.png",
+        "background": "minecraft:textures/block/mossy_cobblestone.png",
         "show_toast": false,
         "announce_to_chat": false
     },

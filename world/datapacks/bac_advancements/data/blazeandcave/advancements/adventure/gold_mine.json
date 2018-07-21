@@ -15,7 +15,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:mesa",				
+                "biome": "minecraft:badlands",				
 				"position": {
 					"y": {
 						"min": 64.0
@@ -27,7 +27,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:mesa_clear_rock",				
+                "biome": "minecraft:badlands_plateau",				
 				"position": {
 					"y": {
 						"min": 64.0
@@ -39,7 +39,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:mesa_rock",				
+                "biome": "minecraft:wooded_badlands_plateau",				
 				"position": {
 					"y": {
 						"min": 64.0
@@ -51,7 +51,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:mutated_mesa",				
+                "biome": "minecraft:eroded_badlands",				
 				"position": {
 					"y": {
 						"min": 64.0
@@ -63,7 +63,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:mutated_mesa_clear_rock",				
+                "biome": "minecraft:modified_badlands_plateau",				
 				"position": {
 					"y": {
 						"min": 64.0
@@ -75,7 +75,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:mutated_mesa_rock",				
+                "biome": "minecraft:modified_wooded_badlands",				
 				"position": {
 					"y": {
 						"min": 64.0

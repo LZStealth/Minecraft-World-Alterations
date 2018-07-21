@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Animals"},
         "description": {"translate":"The world is full of friends and food"},
-		"background": "minecraft:textures/blocks/green_concrete_powder.png",
+		"background": "minecraft:textures/block/green_concrete_powder.png",
         "show_toast": false,
         "announce_to_chat": false
     },

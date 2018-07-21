@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:clownfish"
+            "item": "minecraft:tropical_fish"
         },
         "title": {"translate":"Catching Nemo"},
         "description": {"translate":"Catch a clownfish"},
@@ -12,12 +12,12 @@
 		"function": "bc_rewards:animal/catching_nemo"
     },		
     "criteria": {
-        "clownfish": {
+        "tropical_fish": {
             "trigger": "minecraft:fishing_rod_hooked",
             "conditions": {
                 "item":
                 {
-                    "item": "minecraft:clownfish"
+                    "item": "minecraft:tropical_fish"
                 }
             }
         }	

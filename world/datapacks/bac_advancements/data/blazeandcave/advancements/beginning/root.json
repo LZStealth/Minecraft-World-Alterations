@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Beginning"},
         "description": {"translate":"A brave new world"},
-        "background": "minecraft:textures/blocks/dirt.png",
+        "background": "minecraft:textures/block/dirt.png",
         "show_toast": false,
         "announce_to_chat": false
     },

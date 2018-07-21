@@ -4,9 +4,9 @@
             "item": "minecraft:light_blue_concrete_powder"
         },
         "title": {"translate":"Rainbow Sand"},
-        "description": {"translate":"Craft concrete_powder powder using sand, gravel and dye"}
+        "description": {"translate":"Craft concrete powder using sand, gravel and dye"}
     },
-    "parent": "blazeandcave:building/benchmarking",
+    "parent": "blazeandcave:building/root",
 	"rewards": {
 		"function": "bc_rewards:building/rainbow_sand"
     },		

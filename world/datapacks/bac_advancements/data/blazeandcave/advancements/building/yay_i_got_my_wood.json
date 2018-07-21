@@ -7,7 +7,7 @@
         "description": {"translate":"Collect all six types of wood"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/benchmarking",
+    "parent": "blazeandcave:building/root",
     "rewards": {
         "function": "bc_rewards:building/yay_i_got_my_wood"
     },		

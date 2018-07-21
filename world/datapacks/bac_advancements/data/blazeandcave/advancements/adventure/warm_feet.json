@@ -22,13 +22,13 @@
         "mesa": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:mesa"
+                "biome": "minecraft:badlands"
             }
         },
         "mesa_rock": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:mesa_rock"
+                "biome": "minecraft:wooded_badlands_plateau"
             }
         },
         "savanna": {
@@ -46,13 +46,13 @@
         "savanna_rock": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:savanna_rock"
+                "biome": "minecraft:savanna_plateau"
             }
         },
         "mesa_clear_rock": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:mesa_clear_rock"
+                "biome": "minecraft:badlands_plateau"
             }
         }
     }

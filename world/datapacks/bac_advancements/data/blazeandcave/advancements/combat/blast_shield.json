@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:shield"
+            "item": "minecraft:shield",
+			"nbt": "{BlockEntityTag:{Base:5,Patterns:[{Pattern:hh,Color:5},{Pattern:hhb,Color:5},{Pattern:cre,Color:15},{Pattern:cre,Color:15},{Pattern:cre,Color:15}]}}"
         },
         "title": {"translate":"Blast Shield"},
         "description": {"translate":"Survive a creeper's blast with your shield"}

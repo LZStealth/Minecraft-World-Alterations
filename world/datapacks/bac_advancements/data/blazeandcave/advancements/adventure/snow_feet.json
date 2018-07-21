@@ -16,19 +16,19 @@
         "taiga_cold": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:taiga_cold"
+                "biome": "minecraft:snowy_taiga"
             }
         },
         "ice_flats": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:ice_flats"
+                "biome": "minecraft:snowy_tundra"
             }
         },
         "ice_mountains": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:ice_mountains"
+                "biome": "minecraft:snowy_mountains"
             }
         },
         "frozen_river": {
@@ -40,13 +40,13 @@
         "cold_beach": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:cold_beach"
+                "biome": "minecraft:snowy_beach"
             }
         },
         "taiga_cold_hills": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:taiga_cold_hills"
+                "biome": "minecraft:snowy_taiga_hills"
             }
         }		
     }

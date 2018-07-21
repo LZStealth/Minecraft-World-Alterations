@@ -6,7 +6,7 @@
         "title": {"translate":"Your Door Was Locked"},
         "description": {"translate":"Craft a door to stop monsters from entering your house"}
     },
-    "parent": "blazeandcave:building/benchmarking",
+    "parent": "blazeandcave:building/root",
 	"rewards": {
 		"function": "bc_rewards:building/your_door_was_locked"
     },		

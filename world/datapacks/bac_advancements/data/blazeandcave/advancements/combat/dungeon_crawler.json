@@ -45,19 +45,19 @@
                 }
             }
         },
-        "vindication_illager": {
+        "vindicator": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "vindication_illager"
+                    "type": "vindicator"
                 }
             }
         },
-        "evocation_illager": {
+        "evoker": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "evocation_illager"
+                    "type": "evoker"
                 }
             }
         },

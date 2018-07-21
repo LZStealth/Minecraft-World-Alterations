@@ -34,13 +34,13 @@
         "stone_beach": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:stone_beach"
+                "biome": "minecraft:stone_shore"
             }
         },
         "beaches": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:beaches"
+                "biome": "minecraft:beach"
             }
         },
         "deep_frozen_ocean": {

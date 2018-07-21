@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:shield"
+            "item": "minecraft:shield",
+			"nbt": "{BlockEntityTag:{Base:11,Patterns:[{Pattern:ms,Color:5},{Pattern:cs,Color:11},{Pattern:ts,Color:15},{Pattern:bs,Color:15}]}}"
         },
         "title": {"translate":"Ricochet Swoop"},
         "description": {"translate":"Deflect a Phantom's swoop with your shield"}

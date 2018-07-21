@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Potions"},
         "description": {"translate":"Brewing potions with helpful and hindering effects"},
-		"background": "minecraft:textures/blocks/glowstone.png",
+		"background": "minecraft:textures/block/glowstone.png",
         "show_toast": false,
         "announce_to_chat": false		
     },

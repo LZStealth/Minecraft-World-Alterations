@@ -7,7 +7,7 @@
         "description": {"translate":"Carve a stack of pumpkins"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:farming/do_you_want_to_build_a_snowman",
+    "parent": "blazeandcave:farming/do_you_want_to_build_a_snow_golem",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:farming/pumpa_kungen"

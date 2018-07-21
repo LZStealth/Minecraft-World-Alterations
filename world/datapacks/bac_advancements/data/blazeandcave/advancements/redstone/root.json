@@ -5,7 +5,7 @@
         },
         "title": {"translate":"Redstone"},
         "description": {"translate":"Cracking contraptions"},
-		"background": "minecraft:textures/blocks/piston_side.png",
+		"background": "minecraft:textures/block/piston_side.png",
         "show_toast": false,
         "announce_to_chat": false
     },

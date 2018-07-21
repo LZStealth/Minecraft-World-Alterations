@@ -19,7 +19,7 @@
                 "entity": {
                     "type": "minecraft:husk",
                     "location": {
-                        "biome": "ice_flats"
+                        "biome": "snowy_tundra"
                     }
                 }
             }
@@ -30,7 +30,7 @@
                 "entity": {
                     "type": "minecraft:husk",
                     "location": {
-                        "biome": "ice_mountains"
+                        "biome": "snowy_mountains"
                     }
                 }
             }
@@ -41,7 +41,7 @@
                 "entity": {
                     "type": "minecraft:husk",
                     "location": {
-                        "biome": "mutated_ice_flats"
+                        "biome": "ice_spikes"
                     }
                 }
             }

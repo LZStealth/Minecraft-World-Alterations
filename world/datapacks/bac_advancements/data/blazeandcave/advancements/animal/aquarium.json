@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:clownfish_bucket"
+            "item": "minecraft:tropical_fish_bucket"
         },
         "title": {"translate":"Aquarium"},
         "description": {"translate":"Catch all four types of fish and set them free in an aquarium"},
@@ -39,12 +39,12 @@
                 }
             }
         },
-        "clownfish_bucket": {
+        "tropical_fish_bucket": {
             "trigger": "minecraft:placed_block",
             "conditions": {
                 "item":
                 {
-                    "item": "minecraft:clownfish_bucket"
+                    "item": "minecraft:tropical_fish_bucket"
                 }
             }
         }		
