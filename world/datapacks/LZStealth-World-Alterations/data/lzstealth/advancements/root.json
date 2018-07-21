@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "lzstealth:setup"
+    },
+    "criteria": {
+        "location": {
+            "trigger": "minecraft:location"
+        }
+    }
+}
