@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:lingering_potion"
+            "item": "minecraft:lingering_potion",
+			"nbt": "{Potion:\"minecraft:poison\"}"
         },
         "title": {"translate":"Noxious Fumes"},
         "description": {"translate":"Use dragon's breath to brew a lingering potion"}

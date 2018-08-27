@@ -75,7 +75,7 @@
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:modified_wooded_badlands",				
+                "biome": "minecraft:modified_wooded_badlands_plateau",				
 				"position": {
 					"y": {
 						"min": 64.0

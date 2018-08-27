@@ -11,12 +11,12 @@
 		"function": "bc_rewards:end/portable_storage"
     },	
     "criteria": {
-        "purple_shulker_box": {
+        "shulker_box": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:purple_shulker_box"
+                        "item": "minecraft:shulker_box"
                     }
                 ]
             }

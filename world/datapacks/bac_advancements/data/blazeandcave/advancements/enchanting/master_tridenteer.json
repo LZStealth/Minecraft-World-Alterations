@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:trident"
+            "item": "minecraft:trident",
+			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
         "title": {"translate":"Master Tridenteer"},
         "description": {"translate":"Create a trident with all possible enchantments at max level"},

@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:bow"
+            "item": "minecraft:bow",
+			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
         "title": {"translate":"Master Sniper"},
         "description": {"translate":"Create a bow with all possible enchantments at max level"},

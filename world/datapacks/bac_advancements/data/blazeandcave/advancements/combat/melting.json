@@ -35,13 +35,13 @@
                 }
             }
         },
-		"mutated_desert": {
+		"desert_lakes": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
                     "type": "minecraft:stray",
                     "location": {
-                        "biome": "mutated_desert"
+                        "biome": "desert_lakes"
                     }
                 }
             }
@@ -51,7 +51,7 @@
 		[
         "desert",
         "desert_hills",
-		"mutated_desert"
+		"desert_lakes"
 		]
     ]
 }

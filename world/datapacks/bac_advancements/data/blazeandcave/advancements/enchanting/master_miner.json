@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:diamond_pickaxe"
+            "item": "minecraft:diamond_pickaxe",
+			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
         "title": {"translate":"Master Miner"},
         "description": {"translate":"Create a pickaxe with all possible enchantments at max level"},

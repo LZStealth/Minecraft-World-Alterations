@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:totem_of_undying"
+            "item": "minecraft:totem_of_undying",
+			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
         "title": {"translate":"Postmortal"},
         "description": {"translate":"Use a Totem of Undying to cheat death"},

@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:enchanting_table"
+            "item": "minecraft:enchanting_table",
+			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
         "title": {"translate":"Master Enchanter"},
         "description": {"translate":"Obtain every enchantment at their max level throughout your enchanting career"},

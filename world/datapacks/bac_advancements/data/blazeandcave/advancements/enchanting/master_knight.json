@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:diamond_sword"
+            "item": "minecraft:diamond_sword",
+			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
         "title": {"translate":"Master Knight"},
         "description": {"translate":"Create a sword with all possible enchantments at max level"},
