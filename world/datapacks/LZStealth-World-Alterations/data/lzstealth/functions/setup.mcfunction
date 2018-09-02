@@ -9,7 +9,7 @@ scoreboard objectives add ops.sleep dummy
 #Message limits for sleeping and waking up (n-1)
 scoreboard players set _sleep_messages ops.sleep 14
 scoreboard players set _kick_messages ops.sleep 8
-tellraw @a ["", {"text": "MadCat","bold": true,"color": "red","clickEvent": {"action": "open_url","value": "https://www.madcatgaming.com/"}}, {"text": " Datapack(s)","color": "red"}, {"text": "\n"}, {"text": "-OnePlayerSleeping V2.1\n-MobHeadDrops V2.0","color": "white"}]
+tellraw @a ["", {"text": "MadCat","bold": true,"color": "red","clickEvent": {"action": "open_url","value": "https://www.madcatgaming.com/"}}, {"text": " Datapack(s)","color": "red"}, {"text": "\n"}, {"text": "-OnePlayerSleeping V2.1\n-MobHeadDrops V2.0 - Hard","color": "white"}]
 
 ### Enable BlazeAndCaves Achievements ###
 scoreboard players set Reward Reward 1
