@@ -185,3 +185,12 @@ div.searchResultItem img {
     width: 24px;
     height: 24px;
 }
+
+div.progress {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+    background: #fff;
+    border-radius: 5px;
+    padding: 3px;
+    border: 2px solid rgba(0,0,0,0.2);
+    background-clip: padding-box
+}
