@@ -1,0 +1,97 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:slime_ball"
+        },
+        "title": {"translate":"I'm gonna be sick!"},
+        "description": {"translate":"Slurp every kind of suspicious stew"},
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:farming/suspicious_looking_stew",
+	"rewards": {
+		"function": "bc_rewards:farming/im_gonna_be_sick"
+    },		
+    "criteria": {
+        "oxeye_daisy_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:140,EffectId:10b}]}"
+                }
+            }
+        },
+        "cornflower_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:100,EffectId:8b}]}"
+                }
+            }
+        },
+        "lily_of_the_valley_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:220,EffectId:19b}]}"
+                }
+            }
+        },
+        "wither_rose_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:140,EffectId:20b}]}"
+                }
+            }
+        },
+        "tulip_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:160,EffectId:18b}]}"
+                }
+            }
+        },
+        "azure_bluet_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:140,EffectId:15b}]}"
+                }
+            }
+        },
+        "allium_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:60,EffectId:12b}]}"
+                }
+            }
+        },		
+        "blue_orchid_dandelion_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:7,EffectId:23b}]}"
+                }
+            }
+        },
+        "poppy_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:suspicious_stew",
+					"nbt": "{Effects:[{EffectDuration:100,EffectId:1b}]}"
+                }
+            }
+        }		
+    }
+}

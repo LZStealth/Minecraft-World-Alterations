@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:smithing_table"
+        },
+        "title": {"translate":"Not for creating copies of yourself"},
+        "description": {"translate":"Craft a smithing table"}
+    },
+    "parent": "blazeandcave:mining/classic_pocket_edition_block",
+    "rewards": {
+		"function": "bc_rewards:mining/not_for_creating_copies_of_yourself"
+    },		
+    "criteria": {
+        "smithing_table": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:smithing_table"
+                    }
+                ]
+            }
+        }
+    }
+}
